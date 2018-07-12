@@ -1,1 +1,1 @@
-# Berkeley-AIProject-1-Search
+# Berkeley AI Project-1 Search
